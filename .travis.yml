@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: katiemei888-github
     token:
-      secure: c8c8dba4f771ad1d96b9be2859d3fc9394f40ad0
+      secure: 5e4b8e5bb92e5b341698127623e84812a9515e73
 jdk:
   - oraclejdk8
 script:
